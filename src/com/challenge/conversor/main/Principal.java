@@ -1,4 +1,6 @@
-package converter;
+package com.challenge.conversor.main;
+
+import com.challenge.conversor.vista.VentanaPrincipal;
 
 public class Principal {
 
