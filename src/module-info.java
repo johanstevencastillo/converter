@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author JSCG
+ * @author Johan Steven Castillo Guateque
  *
  */
 module converter {
