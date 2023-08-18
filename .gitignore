@@ -1,1 +1,27 @@
+# Archivos generados por compilación
 /bin/
+/target/
+
+# Archivos de configuración del IDE
+.classpath
+.project
+.settings/
+
+# Archivos de compilación
+*.class
+
+# Archivos de respaldo y temporales
+*~
+*.swp
+
+# Directorio de bibliotecas
+/lib/
+
+# Archivos de registro
+*.log
+
+# Variables de entorno locales
+.env
+
+# Archivos de distribución
+/dist/
